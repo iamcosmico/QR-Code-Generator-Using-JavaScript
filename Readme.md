@@ -84,11 +84,11 @@ EasyQRCodeJS is a powerful, cross-browser QR code generation library that uses J
 
 ## Demo preview
 
-![Demo preview](doc/images/demo.png)
+![Demo preview](Images/demo.png)
 
 ## QR Code Structure
 
-![QR Code Structure](doc/images/QR_Code_Structure.png)
+![QR Code Structure](Images/QR_Code_Structure.png)
 
 
 ## Installation
