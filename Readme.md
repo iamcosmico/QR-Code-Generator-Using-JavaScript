@@ -1,8 +1,6 @@
-# EasyQRCodeJS
+# QR Code Generator Using JavaScript
 
 EasyQRCodeJS is a powerful, cross-browser QR code generation library that uses JavaScript and runs on DOM-based client browsers. It can be downloaded directly in the browser. It supports Canvas, SVG, and Table drawing methods. It provides flexible configurations, including dot style, Logo, background image, color, title, and support for binary (HEX) data mode. It is also compatible with Angular, Vue.js, React, Next.js, and Svelte frameworks.
-
-EasyQRCodeJS 是使用 JavaScript 的一个强大的、跨浏览器的二维码生成库。运行在基于 DOM 的客户端浏览器，并能够在浏览器中进行下载。它支持Canvas、SVG和Table绘图方法。提供灵活的配置，包括点样式、Logo、背景图片、彩色，标题和二进制（十六进制）数据模式支持。它还能与Angular、Vue.js、React、Next.js和Svelte框架兼容。
 
 ## Table of contents
 
@@ -80,40 +78,6 @@ EasyQRCodeJS 是使用 JavaScript 的一个强大的、跨浏览器的二维码�
     
     - Support TypeScript
     
-- **中文**
-
-    - 跨浏览器，支持基于 HTML5 Canvas, SVG 和 Table 的二维码生成
-	
-	- 支持 Unicode 字符集:  `😊❤️👍👨‍💻 Hello, こんにちは, こんにちは, Γεια, Привет, नमस्ते, สวัสดี, Привіт, سلام, Здравей, ສະບາຍດີ, Përshëndetje, Բարեւ, 你好`
-
-    - 在浏览器中下载
-
-    - 支持点形风格的 Required Patterns
-
-    - 支持 Quiet Zone 设置
-	
-    - 支持自定义 Position Pattern 内填充和外边框颜色
-	
-    - 支持自定义 Alignment Pattern 内填充和外边框颜色
-
-    - 支持自定义 Timing Patterns 垂直，水平颜色
-
-    - 支持 Logo 图片（包括背景透明的 PNG 图片）
-
-    - 支持 Background Image 背景图片
-
-    - 支持标题，副标题设置
-	
-    - 不依赖任何第三方
-	
-    - 支持 AMD，CMD, CommonJS/Node.js JavaScript 模块加载规范
-
-    - Angular, Vue.js, React, NEXT.js, Svelte 支持
-
-    - 二进制数据模式支持
-
-    - TypeScript 支持
-
 ## Try It!
 
 [Try It!](http://www.easyproject.cn/easyqrcodejs/tryit.html "EasyQRCodeJS Try It!")
@@ -841,48 +805,3 @@ onRenderingEnd: function(qrCodeOptions) {
 
 ## Browser Compatibility
 IE6+, Chrome, Firefox, Safari, Opera, Mobile Safari, Android, Windows Mobile, ETC.
-
-## License
-MIT License
-
-
-## EasyQRCodeJS-Premium
-
-*Let you draw freely!*
-
-**EasyQRCodeJS-Premium** is a more powerful and comprehensive enterprise version. You can use Canvas to customize any element, such as eye frame shape, eyeball shape, QR code block shape, and more. Also supports excavation (to prevent the QRcode overlap with the logo), random block mode.
-
-If you need more functions, we can provide you with customized development of API libraries or products. please contact me to buy the business enterprise edition.
-
-**EasyQRCodeJS-Premium** 是功能更加强大和全面的商业/企业版本。让您可以在 QRCode 中通过 Canvas 自定义任何喜欢的元素，例如  Eye frame 形状, Eye ball 形状, QR Body block 形状等等。 还支持 Logo 挖取（excavation，防止二维码与 Logo 重叠）和 Random bolock mode.
-
-如果您需要更多功能，我们可以为您提供 API 库或产品的定制开发。请联系我购买商业/企业版本。
-
-![Premium demo preview](doc/images/demo-premium.png)
-
-
-## End
-
-Email：<inthinkcolor@gmail.com>
-
-[http://www.easyproject.cn](http://www.easyproject.cn "EasyProject Home")
-
-
-**Donation/捐助:**
-
-<a href="http://www.easyproject.cn/donation">
-<img alt="
-支付宝/微信/QQ/云闪付/PayPal 扫码支付" src="http://www.easyproject.cn/thanks/donation.png"  title="支付宝/微信/QQ/云闪付/PayPal 扫码支付"  height="320" width="320"></img></a>
-<div>支付宝/微信/QQ/云闪付/PayPal</div>
-
-<br/>
-
-我们相信，每个人的点滴贡献，都将是推动产生更多、更好免费开源产品的一大步。
-
-**感谢慷慨捐助，以支持服务器运行和鼓励更多社区成员。**
-
-We believe that the contribution of each bit by bit, will be driven to produce more and better free and open source products a big step.
-
-**Thank you donation to support the server running and encourage more community members.**
-
-
